@@ -52,6 +52,8 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 
 ## 📊 OBSERVATION AND CALCULATION
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/19c2d683-8531-46dc-b305-f2d89c3afd4a" />
+
 
 - 
 Parameter of given fiber are,
@@ -61,6 +63,5 @@ Total number of modes = V2 / 2 = 4.912 / 2
 <img width="932" height="1015" alt="image" src="https://github.com/user-attachments/assets/09f47716-8ad0-42f6-a2d1-a9afa7590b4f" />
 
 
----
-## Tabulation
 ## Result
+Thus,mode characteristics of fiber optic cablelower order Linearly Polarized (LP) modes are observed.
